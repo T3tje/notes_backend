@@ -1,8 +1,0 @@
-POST http://localhost:3001/api/notes
-Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1ybTFzdGVyIiwiaWQiOiI2MWZiOGM0ZTY4NDJlZTcxODdmNWYwMTIiLCJpYXQiOjE2NDM4ODAzMDZ9.sgXXIFrbmbt6DWM6dsEVU4b6C8Lu2PPf9CrTttd0Fy0
-
-{
-    "content": "Token Test 123456787",
-    "important": true
-}

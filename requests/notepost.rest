@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1ybTFzdGVyIiwiaWQiOiI2MjAyMTQ1ZjYxNTdiNWVjMzc4NDE4OGUiLCJpYXQiOjE2NDQzMTY3MTQsImV4cCI6MTY0NDMyMDMxNH0.QB8A67pe-1kClkxQ2KdfUn0_gSMQ8ZvL8FkMkRtkm3U
+
+{
+    "content":"Ja ich kann Nachrichten uploaden",
+    "important": true
+}
